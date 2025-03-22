@@ -16,11 +16,11 @@ Este repositório tem o objetivo de ajudar pessoas com pouca ou nenhuma experiê
 
 - **Git**: Sistema de controle de versão distribuído.
 
-## 💻 Quais linguagens posso usar?
+## 💻 Quais linguagens você pode usar?
 
 - Literalmente qualquer uma, sinta-se livre.
 
-## ⚠️ O que não posso fazer?
+## ⚠️ O que você não pode fazer?
 
 - Alterar o README.md
 - Excluir o GuiaGit
